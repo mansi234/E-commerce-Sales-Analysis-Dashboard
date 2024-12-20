@@ -2,6 +2,8 @@
 
  E-commerce Sales Analysis Dashboard in Excel is a valuable project that enables businesses to visualize and interpret their sales data effectively. Such a dashboard provides insights into sales performance, customer behavior, and product trends, facilitating informed decision-making.
 
+ E-Commerce Analysis Dataset - https://github.com/mansi234/E-commerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis.xlsx
+
 Sales and Profit Analysis:☑️
 
 Monthly and Yearly Trends: Visual representations, such as combo charts, depict sales and profit over time, highlighting peak periods and growth patterns.
