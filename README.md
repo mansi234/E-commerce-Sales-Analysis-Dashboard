@@ -4,6 +4,8 @@
 
  E-Commerce Analysis Dataset - https://github.com/mansi234/E-commerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis.xlsx
 
+E-Commerce Analysis Dataset and Dashboard Visuals: https://github.com/mansi234/E-commerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx
+
 Sales and Profit Analysis:☑️
 
 Monthly and Yearly Trends: Visual representations, such as combo charts, depict sales and profit over time, highlighting peak periods and growth patterns.
